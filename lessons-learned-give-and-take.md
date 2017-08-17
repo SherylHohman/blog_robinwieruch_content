@@ -17,23 +17,23 @@ summary = "Adam Grant dives deep into the spectrum of altruistic to selfish pers
 
 {{% pin_it_image "book summary give take" "img/posts/lessons-learned-give-and-take/banner.jpg" "is-src-set" %}}
 
-Recently I have read {{% a_blank_no_follow "Give and Take: A revolutionary approach to Success" "http://amzn.to/2olhgRv" %}} by Adam Grant. It is an inspiring book and I found myself taking too many notes while reading it. Now I want to summarize my learnings, to internalize them, but also to give others access to it.
+Recently I have read {{% a_blank_no_follow "Give and Take: A revolutionary approach to Success" "http://amzn.to/2olhgRv" %}} by Adam Grant. It is an inspiring book and I found myself taking many, many notes while reading it. Now I want to summarize my learnings, to internalize them, and also to give others access to these powerful teachings.
 
-In his book, Adam Grant dives deep into the spectrum of altruistic to selfish personalities. Anyone, who reads the book, might be able to identify his or her own personal traits. It can differ in your personal and professional lives. Moreover, as Adam Grant shows, you can apply the principles of giving and taking even in companies or communities. The book shows and encourages the benefits of giving instead of taking. Furthermore it dives into the role of a giving personality and shows ways to avoid being exploited.
+In his book, Adam Grant dives deep into the spectrum from altruistic to selfish personalities. Anyone who reads the book, might be able to identify his or her own personal traits. They can differ between your personal and professional lives. Regardless, as Adam Grant shows, you can apply the principles of giving and taking, even within companies or communities. The book shows, and encourages, the benefits of giving as being more powerful and life affirming than taking. Furthermore, it dives into the role of exercising a giving personality, without being exploited.
 
 "Every man must decide whether he will walk in the light of creative altruism or in the darkness of destructive selfishness" - Martin Luther King Jr.
 
-You cannot apply it like a cookbook. Nobody wants to encourage a faking personality. But it certainly will help you to understand the principles of giving and taking personalities. Perhaps the book is a good incentive to change your behavior to the better.
+You cannot apply it like a cookbook. Nobody wants to encourage, or encounter, a faking personality. But it certainly will help you to understand the principles of giving and taking personalities. Perhaps, the book displays a good incentive to change your behavior to the better.
 
 The book had a lasting impact on me. [I read it while I travelled Laos, got to know different volunteering projects and decided to donate money to it](https://www.robinwieruch.de/giving-back-by-learning-react/).
 
-In addition, I was able to see the intersection of the topic to give and take and open source in software development. Contributing in open source can be a draining volunteering task. The book shows ways to prevent the burnout of giving that shows up too often for open source contributors.
+In addition, I was able to see the intersection of the topic of give and take to open source in software development. Contributing in open source can be a draining, volunteering task. This book shows ways to prevent the burnout of giving that shows up far too often amongst open source contributors.
 
-Let's dive into the learnings. Keep in mind that these notes are only a summary of my learnings from the book. They stand on the shoulders of interviewees, researchers, and obviously Adam Grant.
+Let's dive into the learnings. Keep in mind that these notes are only a *summary* of my learnings from the book. The full stories stand on the shoulders of interviewees, researchers, and obviously Adam Grant.*
 
 {{% chapter_header "Givers and Takers" "giversAndTakers" %}}
 
-Adam Grant distinguishes the behavior of people into reciprocity styles. Two of them are givers and takers. The third one will be described as matcher later on. In addition, there are fine grained variations in each style.
+Adam Grant distinguishes the behavior of people into reciprocity styles. Two of them are givers and takers. The third one will be described later on as a matcher. In addition, there are fine grained variations in each style.
 
 Takers: "Takers have a distinctive signature: they like to get more than they give. They tilt reciprocity in their own favor, putting their own interest ahead other's needs. Takers believe that the world is a competing, dog-eat-dog place. They feel that to succeed, they need to be better than others. To prove their competence, they self-promote and make sure they get plenty of credit for their efforts."
 
@@ -51,13 +51,13 @@ Givers: "[A giver is the] opposite of a taker [...]. In the workplace, givers ar
 
 {{% chapter_header "On Being a Chameleon" "chamleon" %}}
 
-Being a giver is quite common outside of the workplace. We act like givers in close relationships to our family and friendships. In the workplace, the principle of giving and taking gets more complicated. There a third reciprocity style emerges: the matchers.
+Being a giver is quite common *outside* of the workplace. We act like givers in close relationships, to our family and friendships. In the workplace, the principle of giving and taking gets more complicated. There, a third reciprocity style emerges: the matchers.
 
 Matchers: "[Matchers are] striving to preserve an equal balance of giving and getting. Matchers operate on the principle of fairness: when they help others, they protect themselves by seeking reciprocity."
 
-None of these reciprocity styles is fixed for yourself. When evaluating yourself, you will find yourself traveling across these styles. You will become a giver when interacting with your close friends yet become a matcher or taker in the workplace.
+None of these reciprocity styles is fixed in yourself. When evaluating yourself, you will find yourself traveling across the spectrum of these styles at different times, and in different situations. You will become a giver when interacting with your close friends, yet may become a matcher, or taker, in the workplace.
 
-In the workplace itself, people find themselves traveling between these styles again. You might be a giver when mentoring others but be a taker when negotiating your salary. Yet you become a matcher when sharing experiences with a coworker.
+In the workplace itself, people find themselves traveling between these styles again. You might be a giver when mentoring others, but be a taker when negotiating your salary, then become a matcher when sharing experiences with a coworker.
 
 "Every time we interact with another person at work, we have a choice to make: do we try to make claim as much value as we can, or contribute value without worrying about what we receive in return?"
 
